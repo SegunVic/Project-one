@@ -8,3 +8,6 @@
 
 ![APACHE2 STATUS](./images/APACHE2%20STATUS.png)
 
+
+
+[Installing openssh](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell)
